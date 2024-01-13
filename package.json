@@ -1,0 +1,49 @@
+{
+	"name": "vscode-starter-for-jp",
+	"displayName": "VSCode Starter Pack For JP",
+	"description": "VSCode starter pack for Japanese user",
+	"version": "1.0.0",
+	"publisher": "YmSaki",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"extensionPack": [
+		"MS-CEINTL.vscode-language-pack-ja",
+		"mosapride.zenkaku",
+		"ms-vscode.cpptools-extension-pack",
+		"ms-dotnettools.csharp",
+		"pranaygp.vscode-css-peek",
+		"dsznajder.es7-react-js-snippets",
+		"ecmel.vscode-html-css",
+		"oderwat.indent-rainbow",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"VisualStudioExptTeam.intellicode-api-usage-examples",
+		"Zignd.html-css-class-completion",
+		"ms-vscode.vscode-typescript-next",
+		"nickdemayo.vscode-json-editor",
+		"ms-vscode.live-server",
+		"ritwickdey.LiveServer",
+		"yzhang.markdown-all-in-one",
+		"bierner.markdown-mermaid",
+		"PKief.material-icon-theme",
+		"bmewburn.vscode-intelephense-client",
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+		"REditorSupport.r",
+		"jock.svg",
+		"Gruntfuggly.todo-tree",
+		"rangav.vscode-thunder-client",
+		"rebornix.Ruby",
+		"vscjava.vscode-java-pack",
+		"VisualStudioToolsForUnity.vstuc",
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-rename-tag",
+		"streetsidesoftware.code-spell-checker",
+		"GrapeCity.gc-excelviewer"
+	],
+	"galleryBanner": {
+		"color": "#007ACC",
+		"theme": "dark"
+	},
+	"icon": "icon.png"
+}
