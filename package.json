@@ -2,6 +2,7 @@
 	"name": "vscode-starter-for-jp",
 	"displayName": "VSCode Starter Pack For JP",
 	"description": "VSCode starter pack for Japanese user",
+	"repository": "https://github.com/YmSaki/VSCodeStarterForJP",
 	"version": "1.0.0",
 	"publisher": "YmSaki",
 	"engines": {
