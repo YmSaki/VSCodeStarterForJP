@@ -3,7 +3,7 @@
 	"displayName": "VSCode Starter Pack For JP",
 	"description": "VSCode starter pack for Japanese user",
 	"repository": "https://github.com/YmSaki/VSCodeStarterForJP",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"publisher": "YmSaki",
 	"engines": {
 		"vscode": "^1.0.0"
@@ -34,7 +34,7 @@
 		"jock.svg",
 		"Gruntfuggly.todo-tree",
 		"rangav.vscode-thunder-client",
-		"rebornix.Ruby",
+		"Shopify.ruby-lsp",
 		"vscjava.vscode-java-pack",
 		"VisualStudioToolsForUnity.vstuc",
 		"formulahendry.auto-close-tag",
@@ -42,7 +42,10 @@
 		"streetsidesoftware.code-spell-checker",
 		"GrapeCity.gc-excelviewer",
 		"GitHub.vscode-pull-request-github",
-		"mhutchie.git-graph"
+		"mhutchie.git-graph",
+		"rust-lang.rust-analyzer",
+		"dustypomerleau.rust-syntax",
+		"tamasfe.even-better-toml"
 	],
 	"galleryBanner": {
 		"color": "#007ACC",
